@@ -8,3 +8,4 @@ Jabba the Hutt
 
 Rey
 Finn
+Kylo Ren
